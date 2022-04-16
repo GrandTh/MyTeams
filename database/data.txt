@@ -1,0 +1,12 @@
+.user
+uuid^78de3337-1b79-46b4-9334-58a926a679ec~name^Thomas~status^0~team^(null)`uuid^e16b6add-5855-4c9a-b3a7-adf65a537a2e~name^Pierre~status^0~team^2b8c6d43-0bb9-4821-a551-499ba1c0c05b|82ec4568-48cd-4d1d-b4e8-ad71ccdba772
+.teams
+uuid^2b8c6d43-0bb9-4821-a551-499ba1c0c05b~name^team1~description^description 1~users^e16b6add-5855-4c9a-b3a7-adf65a537a2e`uuid^82ec4568-48cd-4d1d-b4e8-ad71ccdba772~name^chan1~description^chan desc 1~users^e16b6add-5855-4c9a-b3a7-adf65a537a2e
+.channels
+uuid^~name^~description^~team^~users^
+.threads
+uuid^~title^~message^~time^~team^~channel^~users^
+.comments
+user^~message^~time^~team^~thread^
+.messages
+message^Coucou Pierre~to^e16b6add-5855-4c9a-b3a7-adf65a537a2e~from^78de3337-1b79-46b4-9334-58a926a679ec~time^Thu Nov 18 16:28:26 2021`message^Coucou Thomas~to^78de3337-1b79-46b4-9334-58a926a679ec~from^e16b6add-5855-4c9a-b3a7-adf65a537a2e~time^Thu Nov 18 16:28:44 2021`message^Coucou Thomas~to^78de3337-1b79-46b4-9334-58a926a679ec~from^e16b6add-5855-4c9a-b3a7-adf65a537a2e~time^Thu Nov 18 16:34:52 2021`message^Coucou Thomas~to^78de3337-1b79-46b4-9334-58a926a679ec~from^e16b6add-5855-4c9a-b3a7-adf65a537a2e~time^Thu Nov 18 16:35:19 2021
